@@ -39,7 +39,7 @@ class StarRating extends Component {
         {this.renderStars()}
 
       </ul>
-    );
+    )
   }
 }
 
